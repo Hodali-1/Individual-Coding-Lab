@@ -1,11 +1,21 @@
-Text,Likes,Retweets
-Just launched my new project! So excited,120,45
-,10,5
-Loving this beautiful sunny day,89,
-Python is such a fun language to learn,200,60
-Can't believe how good this pizza was,,12
-Working late on my coding assignment,34,10
-,,
-Best concert I've ever been to!,150,
-This traffic is unbearable today,25,8
-Python bugs are the worst but I love debugging,95,30
+Tweet_ID,Username,Text,Retweets,Likes,Timestamp
+1,coder_amina,Just launched my new project so excited,45,120,2026-01-02
+2,jaydev,,5,10,2026-01-02
+3,coder_amina,Loving this beautiful sunny day,,89,2026-01-03
+4,pylover,Python is such a fun language to learn,60,200,2026-01-03
+5,foodie_kev,Cannot believe how good this pizza was,12,,2026-01-04
+6,coder_amina,Working late on my coding assignment,10,34,2026-01-04
+7,jaydev,,,,2026-01-05
+8,musiclife,Best concert I have ever been to,,150,2026-01-05
+9,pylover,This traffic is unbearable today,8,25,2026-01-06
+10,pylover,Python bugs are the worst but I love debugging,30,95,2026-01-06
+11,coder_amina,Morning coffee then straight to studying,3,40,2026-01-07
+12,foodie_kev,Trying out a new recipe tonight,7,55,2026-01-07
+13,musiclife,New playlist is finally ready,15,70,2026-01-08
+14,jaydev,Learning how databases work is cool,20,60,2026-01-08
+15,pylover,Finished my first python program today,50,180,2026-01-09
+16,coder_amina,Debugging feels like solving a puzzle,9,42,2026-01-09
+17,foodie_kev,Weekend market had the freshest fruit,4,33,2026-01-10
+18,jaydev,,2,15,2026-01-10
+19,pylover,Reading about algorithms before bed,11,66,2026-01-11
+20,musiclife,Rainy days are the best for coding,6,48,2026-01-11
